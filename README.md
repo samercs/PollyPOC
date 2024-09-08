@@ -1,5 +1,7 @@
 # Polly POC
 
+POC Using Polly for http client retry policy. 
+
 ## Using Polly for retry policy
 
 # How to run Sample
